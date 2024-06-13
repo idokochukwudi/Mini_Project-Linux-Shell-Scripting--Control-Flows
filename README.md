@@ -27,26 +27,26 @@
 ![](./img/4.elif.png)
 
 
-## Loops: They are fundamental constructs that allows us to repeat a set of commands multiple times.
+## `Loops`: They are fundamental constructs that allows us to repeat a set of commands multiple times.
 ### In Bash scripting, there are three primary types of loops that are commonly used to repeat a set of commands multiple times based on certain conditions.
 - for 
 - while &
 - until
 
-## For Loop: This is used to iterate over a list of values or a range of numbers. It is particularly useful when you know in advance how many times you need to execute the loop body.
+## `For Loop`: This is used to iterate over a list of values or a range of numbers. It is particularly useful when you know in advance how many times you need to execute the loop body.
 
 # TASK
-1. Create a shell script for each types of the for loop
+1. Create a shell script for each types of the `for loop`
 2. Insert the code in the file
 3. Set the correct permission for the scripts
 4. Execute the script and evaluate your experience.
 
 ## Solution:
-- script for `List Form`
+### script for `List Form`
 
 ![](./img/5.forloop.png)
 
-- script for `C-style`
+### script for `C-style`
 
 ![](./img/6.cstyle.png)
 
